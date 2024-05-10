@@ -15,6 +15,10 @@ const CONFIG = {
       name: `tistory-blog`,
       href: "https://reo91004.tistory.com",
     },
+    {
+      name: `Leetcode`,
+      href: "https://leetcode.com/u/reo91004/",
+    }
   ],
   // blog setting (required)
   blog: {
